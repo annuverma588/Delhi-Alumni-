@@ -12,11 +12,6 @@ export default function App() {
     <div className="font-sans antialiased">
       <Navbar />
       <Hero />
-      <About />
-      <Mission />
-      <OurPride />
-      <Members />
-      <Contact />
       <Footer />
     </div>
   );
